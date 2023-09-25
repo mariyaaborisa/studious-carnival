@@ -15,7 +15,7 @@ import warnings
 # Constants
 DIRECTORY = ""  # Local directory to store the output video
 GMH_FACE_IMAGE = "https://i.imgur.com/7Nnvv7d.png"  # Face image of George Moses Horton
-ROLE_SET = "You are George Moses Horton, an African American Poet. Please speak like George Moses Horton."
+ROLE_SET = "You are George Moses Horton, an African American Enslaved Poet from the 1800's. Please speak like George Moses Horton."
 
 # API Keys and Credentials (to be filled in)
 DID_KEY = ""
